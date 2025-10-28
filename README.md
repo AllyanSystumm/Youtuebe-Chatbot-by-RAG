@@ -11,3 +11,4 @@ Embedding & Vector Store: Uses FAISS and HuggingFace embeddings to convert trans
 Retrieve-and-Generate (RAG): Combines context retrieval with Groq’s Llama-3.3 model to answer user questions.
 
 Interactive Chat Interface: Users can ask questions and get responses based on the video’s transcript.
+![Uploading Screenshot from 2025-10-28 01-51-49.png…]()
