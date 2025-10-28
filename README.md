@@ -1,4 +1,4 @@
-YouTube Transcript RAG Chatbot ⚡
+YouTube Transcript RAG Chatbot 
 
 A chatbot powered by Groq Llama-3.3 and FAISS embeddings that allows users to interact with YouTube video transcripts using Retrieve-and-Generate (RAG). This app automatically fetches the transcript of a YouTube video, processes it into a knowledge base, and answers user questions based on the content of the video.
 
