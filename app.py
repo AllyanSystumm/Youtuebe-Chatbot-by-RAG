@@ -15,7 +15,7 @@ from langchain_core.prompts import PromptTemplate
 # but it's better to use os.environ.get() to load them.
 
 # Replace with your actual keys for quick local testing if they are not in environment variables
-GROQ_API_KEY = "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"
+GROQ_API_KEY = ""
 # HUGGINGFACE_API_KEY is not strictly needed for the embeddings model
 # but keep this in mind if you use an API-based embedding service.
 
