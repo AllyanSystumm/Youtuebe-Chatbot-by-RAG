@@ -11,7 +11,7 @@ Original file is located at
 
 import os
 !pip install groq
-os.environ["HUGGINGFACE_API_KEY"] = "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"
+os.environ["HUGGINGFACE_API_KEY"] = ""
 
 !pip install -q youtube-transcript-api langchain-community langchain-openai \
                faiss-cpu tiktoken python-dotenv
@@ -136,7 +136,7 @@ retriever.invoke('how are you and who is brock ?')
 
 from groq import Groq
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = ""
 
 try:
     client = Groq(api_key=GROQ_API_KEY)
