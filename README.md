@@ -19,6 +19,8 @@ This tool is ideal for anyone looking to explore and query YouTube videos in-dep
 
 - **Interactive Chat Interface**:  
   Allows users to ask questions, and receive responses directly from the video’s transcript content, enabling a deeper understanding of the video material.
+  <img width="1840" height="1010" alt="CHATBOT CHATBOT" src="https://github.com/user-attachments/assets/2a58f1ac-5f68-4bc0-8292-ca89cbac946f" />
+
 
 ## Prerequisites
 
